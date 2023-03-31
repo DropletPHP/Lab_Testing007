@@ -1,0 +1,15 @@
+C:\Users\vince\OneDrive\Desktop\2023 HW\OOP\Lab_Testing\BasicMath211E\bin\Debug\net6.0\BasicMath211E.exe
+C:\Users\vince\OneDrive\Desktop\2023 HW\OOP\Lab_Testing\BasicMath211E\bin\Debug\net6.0\BasicMath211E.deps.json
+C:\Users\vince\OneDrive\Desktop\2023 HW\OOP\Lab_Testing\BasicMath211E\bin\Debug\net6.0\BasicMath211E.runtimeconfig.json
+C:\Users\vince\OneDrive\Desktop\2023 HW\OOP\Lab_Testing\BasicMath211E\bin\Debug\net6.0\BasicMath211E.dll
+C:\Users\vince\OneDrive\Desktop\2023 HW\OOP\Lab_Testing\BasicMath211E\bin\Debug\net6.0\BasicMath211E.pdb
+C:\Users\vince\OneDrive\Desktop\2023 HW\OOP\Lab_Testing\BasicMath211E\obj\Debug\net6.0\BasicMath211E.csproj.AssemblyReference.cache
+C:\Users\vince\OneDrive\Desktop\2023 HW\OOP\Lab_Testing\BasicMath211E\obj\Debug\net6.0\BasicMath211E.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\OneDrive\Desktop\2023 HW\OOP\Lab_Testing\BasicMath211E\obj\Debug\net6.0\BasicMath211E.AssemblyInfoInputs.cache
+C:\Users\vince\OneDrive\Desktop\2023 HW\OOP\Lab_Testing\BasicMath211E\obj\Debug\net6.0\BasicMath211E.AssemblyInfo.cs
+C:\Users\vince\OneDrive\Desktop\2023 HW\OOP\Lab_Testing\BasicMath211E\obj\Debug\net6.0\BasicMath211E.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\Desktop\2023 HW\OOP\Lab_Testing\BasicMath211E\obj\Debug\net6.0\BasicMath211E.dll
+C:\Users\vince\OneDrive\Desktop\2023 HW\OOP\Lab_Testing\BasicMath211E\obj\Debug\net6.0\refint\BasicMath211E.dll
+C:\Users\vince\OneDrive\Desktop\2023 HW\OOP\Lab_Testing\BasicMath211E\obj\Debug\net6.0\BasicMath211E.pdb
+C:\Users\vince\OneDrive\Desktop\2023 HW\OOP\Lab_Testing\BasicMath211E\obj\Debug\net6.0\BasicMath211E.genruntimeconfig.cache
+C:\Users\vince\OneDrive\Desktop\2023 HW\OOP\Lab_Testing\BasicMath211E\obj\Debug\net6.0\ref\BasicMath211E.dll
